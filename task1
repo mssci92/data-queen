@@ -1,0 +1,8 @@
+# Asks user their name to store as a string
+user_name = input("Enter your name: ")
+# Prints user's name to store as a string to then print. Identical steps followed when user's age asked.
+print(user_name)
+user_age = input("Enter your age: ")
+print(user_age)
+# Hello World! is printed 
+print("Hello World!")
